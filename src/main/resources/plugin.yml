@@ -1,0 +1,4 @@
+name: RandomEvent
+version: '${project.version}'
+main: me.raro.randomevent.RandomEvent
+api-version: 1.19
